@@ -1,1 +1,2 @@
 # KSA-LOG-M
+Předmět přibližuje studentům dynamicky se rozvíjející vědní obor, který má významnou úlohu při řízení výrobních i obchodních organizací. Seznamuje se základními pojmy a upozorňuje na souvislosti, které by měli znát absolventi vysokých škol. Vysvětluje principy a využití jednotlivých metod využívaných v logistice. V rámci předmětu budou představeny podpůrné počítačové prostředky a prezentovány praktické poznatky z řady průmyslových projektů.
