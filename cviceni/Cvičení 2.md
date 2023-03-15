@@ -78,7 +78,7 @@
 
 # Paretova analýza
 
-![ulr](./media/Paretova%20anal%C3%BDza%20-%20graf.jpg)
+![Paretova analýza](../media/Paretova%20anal%C3%BDza%20-%20graf.jpg)
 
 **Paretovo pravidlo:**
 > 80% všech důsledků je způsobeno asi 20% příčin
@@ -95,4 +95,4 @@
 
 ## XYZ analýza
 
-![url](./media/XYZ%20analysis.jpg)
+![XYZ analýza](../media/XYZ%20analysis.jpg)
