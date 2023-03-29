@@ -96,4 +96,20 @@ viz ../Prezetace/Toky.pdf
 
 ![VA-Mapa](../media/mapa-VA.png)
 
-axda
+## Parametry u procesů
+
+- Cyklový čas
+- Dávkový čas (čas přípravy)
+- Disponibilitu
+- Vzdálenost
+- Směnnost
+- Počet pracovníků
+- Odborné požadavky
+- Cenu práce
+- CEZ (celkovou efektivitu zařízení)
+
+### customer tact time
+
+![Odbyt](../media/CTT.png)
+
+
