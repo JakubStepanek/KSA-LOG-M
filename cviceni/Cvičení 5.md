@@ -9,7 +9,6 @@
 |Provádíme hodnocení výkonu pracovníka|Neprovádím hodnocení výkonu pracovníka|
 |Není citlivá na Ergonomii|Analýza citlivá na ergonomii|
 |Není citlivá na metodu práce|Analýza citlivá na použité metody práce|
-zapo
 
 ## Eliminujme plýtvání
 
@@ -47,6 +46,7 @@ zapo
 - Cílem je **nalézt nejlepší cestu** jak dělat požadované činnosti
 
 ## Jak postupovat?
+
 - Vyberte
 - Zaznamenejte
 - Přezkoumejte
@@ -56,6 +56,10 @@ zapo
 - Zaveďte
 - Udržujte
 
-
 # Toky
-xfun::embed_file("../Prezentace/Toky.pdf")
+
+<object data="../Prezentace/Toky.pdf" type="../Prezentace/Toky.pdf" width="700px" height="700px">
+    <embed src="../Prezentace/Toky.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../Prezentace/Toky.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
