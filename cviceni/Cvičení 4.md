@@ -16,7 +16,6 @@
 >Dávkový čas = čas na přípravu dávky, čas na přetypování; začneme měřit, když ukončíme jednu dávku a ukončíme měření, když začneme vyrábět 2.
 
 ## **Ganttův graf**
-
 ![Ganttův graf](../media/GanttuvDiagramCZ.png)
 
 ## Jednotkový X Kusový čas
