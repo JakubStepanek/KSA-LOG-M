@@ -58,8 +58,42 @@
 
 # Toky
 
-<object data="../Prezentace/Toky.pdf" type="../Prezentace/Toky.pdf" width="700px" height="700px">
-    <embed src="../Prezentace/Toky.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../Prezentace/Toky.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+viz ../Prezetace/Toky.pdf
+
+*Nitkový diagram*
+
+- vzdušnou čarou, kreslíme do layoutu a neznáme intenzitu toku
+
+*Spaghetti diagram*
+
+- vzdušnou čarou, kreslíme do layoutu a známe intenzitu toku
+
+*Sankeyův diagram*
+
+- nekreslíme do layoutu, zmáne intenzitu toku
+
+*Digitální továrna*
+
+- Hybridní diagram
+
+## Zásady navrhování materiálních toků
+
+1. Co nejkratší/ Nejrychlejší
+1. Bez křížení
+1. Jednoznačné
+1. Jednosměrné
+1. Dostatečně široké
+1. Plynulé
+
+# Value stream mapping
+
+- jednoduchý vizuální nástroj pro analýzu sledovaného procesu (průběh zakázek procesem)
+- vstupní analýza pro simulaci, optimalizaci, změnu organizace práce, redukci zásob, zkrácení průěžné doby výroby, audit při změně výrobku, managementu, navrhujeme-li nový proces
+
+- zákazník určuje vlastnosti produktu přidávající hodnotu
+
+![Základní kameny mapy](../media/zakladni-kameny-mapy.png)
+
+![VA-Mapa](../media/mapa-VA.png)
+
+axda
