@@ -112,4 +112,49 @@ viz ../Prezetace/Toky.pdf
 
 ![Odbyt](../media/CTT.png)
 
+|Jak postupovat při analýze||
+|--|--|
+|Vyberte|- práci, ktrerá má být zkoumána (úzké místo)|
+|Zaznamenejte|- vypovídající fakta o této práci|
+|Přezkoumejte|- způsob jakým je práce vykonávána|
+|Navrhněte|- celkově lepší metodu, jak práci vykonávat (levnější, rychlejší, snazší)|
+|Zhodnoťte|- různé alternativy pro zlepšení vykonávané práce |
+|Definujte|- novou metodu|
+|Zaveďte|- novou metodu|
+|Udržujte|- nový stav, kontrolujte jako prevenci proti návratu ka úvodnímu stavu|
 
+## Chronometráž
+
+**Plnulá chronometráž** po dobu pozorování se měří čas všech úkonů operace. Úkolem je zjistit skutečnou spotřebu času na jednotlivé úkony a na celou operaci, pokud se úkony zkoumané operace pravidelně opakují.
+
+**Výběrová chronometráž** je druh chronometráže, při kterém jsou předmětem pozorování a měření pouze určité, dopředu vybrané prvky operace. Používá se k určení skutečné spotřeby času na vybrané pravidelně i nepravidelně se opakující, předem známé úkony.
+
+**Obkročném chronometráž** se používá v případech, kdy je třeba zjišťovat délku trvání velmi krátkých, pravidelně se opakujících prvků operace. Protože v tomto případě je obtížné měřit délku každého prvku jednotlivě, měří se časy celých skupin pracovních úkonů, z nichž se dodatečně vypočítává délka každého z nich.
+
+## Měření práce
+
+- Aplikace techink pro určení **času potřebného na vykonání specifické práce kvalifikovaným dělníkem na definované úrovni výkonu**
+- Slouží především **pro účely normování** práce
+- Jsou zpravidla **podkladem pro racionalizace pracovních procesů**
+
+## Metody určování spotřeby času
+
+- **Z historického vývoje známe několik způsobů měření práce a definice časových norem**
+  - Hrubý odhad
+  - Využití historických údajů
+  - Kontinuální časové studie přímým měřením
+  - Systémy předem určených časů
+- **Cíl měření**
+  - Racionalizace práce
+  - Definicce norem spotřeby času
+- **Důvody měření**
+  - Nová práce, výrobek, postup
+  - Změna v postupu, materiálu, podmínek práce
+  - Reklamace časových norem
+  - Potřeba optimalizovat úzké místo
+  - Porovnání alternativních metod
+  - Redukce nákladů
+  - Odměňování pracovníků
+
+![Stanovení počtu měření](../media/stanoveni-poctu-mereni.png)
+viz ../Prezetace/REFA-vs-MOST.pdf
