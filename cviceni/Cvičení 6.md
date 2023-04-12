@@ -73,4 +73,4 @@
 
 #### Precedenční diagram
 
-!["precedencni diagram"](../media/precedencni%20diagram.png)
+!["precedencni diagram"](../media/precedencni%20graf.png)
