@@ -73,4 +73,11 @@
 
 #### Precedenční diagram
 
-!["precedencni diagram"](../media/precedencni%20graf.png)
+![precedencni diagram](../media/precedencni%20graf.png)
+
+### Přetypování
+
+- **Výroby** manipulace na malé vzdálenosti méně činností,
+ale časově náročných a specifických
+- **Montáže** přeprava na velké vzdálenosti. Velké množství
+časově méně náročných a opakovaných činností
