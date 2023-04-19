@@ -81,3 +81,10 @@
 ale časově náročných a specifických
 - **Montáže** přeprava na velké vzdálenosti. Velké množství
 časově méně náročných a opakovaných činností
+
+>Jaké jsou 4 kroky metodyky SMED?
+ - 
+ -
+ -
+ -
+ 
